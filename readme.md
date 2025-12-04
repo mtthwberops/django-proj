@@ -1,8 +1,5 @@
 # Video Calling Website
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Video%20Calling%20Website-green)](https://github.com/rajatrawal/video-call-django)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Video%20Calling%20Website-brightgreen)](https://video-call-django.onrender.com/)
-
 [![Django](https://img.shields.io/badge/Django-Backend-blue)](https://www.djangoproject.com/)
 [![HTML](https://img.shields.io/badge/HTML-Frontend-blue)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-Frontend-blue)](https://www.w3.org/Style/CSS/specs)
@@ -22,8 +19,6 @@ This project leverages the following technologies:
 - HTML, CSS, JavaScript: The frontend is built using standard web technologies.
 - [Agora WebSocket](https://www.agora.io/en/blog/how-to-build-a-javascript-video-call-app-with-agora/): Utilized for real-time communication in video calls.
 
-## Preview
-![Capture](https://github.com/rajatrawal/video-call-django/assets/72153827/e83f771a-d2de-413b-84d8-0a472da2f98f)
 
 
 ## Installation
@@ -55,16 +50,4 @@ To run this project locally, follow these steps:
    ```
 
 5. Open your web browser and access the project at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
-
-## Usage
-
-This project is designed for users who want to experience simple and straightforward video calls. Simply input a room name and your name to get started.
-
-## Live Demo
-
-Explore the live demo at [Video Calling Website](https://video-call-django.onrender.com/).
-
-Feel free to contribute or provide feedback by creating issues or pull requests on [GitHub](https://github.com/rajatrawal/video-call-django).
-
-Thank you for exploring the "Video Calling Website" project! Enjoy your video calls!
 
